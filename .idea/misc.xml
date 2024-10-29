@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12 (coop_clipboard)" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="8ff0134b-1c07-40c3-9b10-4b87dbd72e0e" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (coop_clipboard)" project-jdk-type="Python SDK" />
+</project>
